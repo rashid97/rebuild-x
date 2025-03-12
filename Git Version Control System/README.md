@@ -28,5 +28,4 @@ This project is a Python-based reimplementation of *Write Yourself a Git*, desig
 
 ```sh
 git clone https://github.com/rashid97/rebuild-x.git
-cd wyag-python
-python3 wyag.py init
+
